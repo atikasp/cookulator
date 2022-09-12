@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Cookulator</string>
+    <string name="all_types">All Types</string>
+    <string name="convert">CONVERT</string>
+    <string name="input_number">Input Number</string>
+    <string name="choose_type">Choose type</string>
+    <string name="empty">0.0</string>
+    <string name="query_unit">Query Unit</string>
+    <string name="result_unit">Result Unit</string>
+
+    <string-array name="variations">
+        <item>Dry Ingredients</item>
+        <item>Liquid Ingredients</item>
+        <item>Temperature</item>
+    </string-array>
+
+    <string-array name="dry">
+        <item>cup</item>
+        <item>tbsp</item>
+        <item>tsp</item>
+        <item>gr</item>
+        <item>oz</item>
+    </string-array>
+
+    <string-array name="liquid">
+        <item>mL</item>
+        <item>fl.cup</item>
+        <item>fl.oz</item>
+        <item>fl.tbsp</item>
+        <item>fl.tsp</item>
+    </string-array>
+
+    <string-array name="temperature">
+        <item>C</item>
+        <item>F</item>
+    </string-array>
+
+</resources>
